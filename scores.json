@@ -1,0 +1,18 @@
+{
+  "season": "IPL 2026",
+  "last_updated": "2026-04-08",
+  "today_match": {
+    "team_1": "Mumbai Indians",
+    "team_2": "Rajasthan Royals",
+    "match_type": "League",
+    "venue": "Wankhede Stadium",
+    "start_time": "19:30 IST",
+    "status": "live"
+  },
+  "points_table": [
+    { "team": "MI", "played": 5, "won": 4, "lost": 1, "points": 8, "nrr": 1.23 },
+    { "team": "RCB", "played": 5, "won": 3, "lost": 2, "points": 6, "nrr": 0.45 },
+    { "team": "SRH", "played": 5, "won": 3, "lost": 2, "points": 6, "nrr": 0.12 },
+    { "team": "RR", "played": 5, "won": 2, "lost": 3, "points": 4, "nrr": -0.34 }
+  ]
+}
